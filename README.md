@@ -11,7 +11,7 @@
 
 ### Tentang Saya
 
-Developer yang fokus membangun aplikasi web, sistem informasi internal (SIMRS, SPPD, inventaris), dan backend API. Terbiasa mengelola server Linux mandiri (self-hosted / homelab) dan deployment berbasis Docker.
+Developer yang fokus membangun aplikasi web, sistem informasi, dan backend API. Terbiasa mengelola server Linux mandiri (self-hosted / homelab) dan deployment berbasis Docker.
 
 - **Fokus Kerja:** PHP (Laravel, CodeIgniter), TypeScript (Next.js, React), Python, PostgreSQL, MySQL.
 - **Infrastruktur:** Linux (Ubuntu Server), Docker, Nginx, Git.
