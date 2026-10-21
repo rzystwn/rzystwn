@@ -1,6 +1,6 @@
 <div align="center">
 
-# Rizky Setiawan
+# Muhammad Rizky Setiawan
 ### Web & Backend Developer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;PHP+%2C+TypeScript+%2C+Python;Laravel+%2C+Next.js+%2C+CodeIgniter;Docker+%2C+Linux+%2C+PostgreSQL)](https://git.io/typing-svg)
